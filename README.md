@@ -5,3 +5,4 @@
 
 
 *劳逸结合
+https://github.com/DonJayamanne/pythonVSCode.git
